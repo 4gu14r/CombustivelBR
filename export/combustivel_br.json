@@ -1,0 +1,93 @@
+[
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "ETANOL HIDRATADO",
+        "NÚMERO DE POSTOS PESQUISADOS": 3660,
+        "UNIDADE DE MEDIDA": "R$/l",
+        "PREÇO MÉDIO REVENDA": 4.7,
+        "DESVIO PADRÃO REVENDA": 0.462,
+        "PREÇO MÍNIMO REVENDA": 3.86,
+        "PREÇO MÁXIMO REVENDA": 6.99,
+        "COEF DE VARIAÇÃO REVENDA": 0.098
+    },
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "GASOLINA ADITIVADA",
+        "NÚMERO DE POSTOS PESQUISADOS": 3360,
+        "UNIDADE DE MEDIDA": "R$/l",
+        "PREÇO MÉDIO REVENDA": 6.84,
+        "DESVIO PADRÃO REVENDA": 0.391,
+        "PREÇO MÍNIMO REVENDA": 5.59,
+        "PREÇO MÁXIMO REVENDA": 9.59,
+        "COEF DE VARIAÇÃO REVENDA": 0.057
+    },
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "GASOLINA COMUM",
+        "NÚMERO DE POSTOS PESQUISADOS": 4319,
+        "UNIDADE DE MEDIDA": "R$/l",
+        "PREÇO MÉDIO REVENDA": 6.65,
+        "DESVIO PADRÃO REVENDA": 0.385,
+        "PREÇO MÍNIMO REVENDA": 5.49,
+        "PREÇO MÁXIMO REVENDA": 9.39,
+        "COEF DE VARIAÇÃO REVENDA": 0.058
+    },
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "GLP",
+        "NÚMERO DE POSTOS PESQUISADOS": 3146,
+        "UNIDADE DE MEDIDA": "R$/13kg",
+        "PREÇO MÉDIO REVENDA": 109.91,
+        "DESVIO PADRÃO REVENDA": 12.143,
+        "PREÇO MÍNIMO REVENDA": 79.99,
+        "PREÇO MÁXIMO REVENDA": 156.0,
+        "COEF DE VARIAÇÃO REVENDA": 0.11
+    },
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "GNV",
+        "NÚMERO DE POSTOS PESQUISADOS": 338,
+        "UNIDADE DE MEDIDA": "R$/m³",
+        "PREÇO MÉDIO REVENDA": 4.38,
+        "DESVIO PADRÃO REVENDA": 0.475,
+        "PREÇO MÍNIMO REVENDA": 3.41,
+        "PREÇO MÁXIMO REVENDA": 6.28,
+        "COEF DE VARIAÇÃO REVENDA": 0.108
+    },
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "OLEO DIESEL",
+        "NÚMERO DE POSTOS PESQUISADOS": 1777,
+        "UNIDADE DE MEDIDA": "R$/l",
+        "PREÇO MÉDIO REVENDA": 7.26,
+        "DESVIO PADRÃO REVENDA": 0.456,
+        "PREÇO MÍNIMO REVENDA": 5.79,
+        "PREÇO MÁXIMO REVENDA": 8.99,
+        "COEF DE VARIAÇÃO REVENDA": 0.063
+    },
+    {
+        "DATA INICIAL": "2026-03-15 00:00:00",
+        "DATA FINAL": "2026-03-21 00:00:00",
+        "BRASIL": "BRASIL",
+        "PRODUTO": "OLEO DIESEL S10",
+        "NÚMERO DE POSTOS PESQUISADOS": 2936,
+        "UNIDADE DE MEDIDA": "R$/l",
+        "PREÇO MÉDIO REVENDA": 7.35,
+        "DESVIO PADRÃO REVENDA": 0.481,
+        "PREÇO MÍNIMO REVENDA": 5.69,
+        "PREÇO MÁXIMO REVENDA": 9.29,
+        "COEF DE VARIAÇÃO REVENDA": 0.065
+    }
+]
